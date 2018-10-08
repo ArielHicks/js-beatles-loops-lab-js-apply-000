@@ -10,13 +10,18 @@ function theBeatlesPlay(musicians, instruments) {
 function johnLennonFacts(facts) {
   let i = 0 
   const arr = [];
-  while (i < facts.length) {
+  while(i < facts.length) {
   arr.push(`${facts[i]}!!!`)
   i++
   }
   return arr;
 }
 
+function iLoveTheBeatles(number) {
+  const arr = [];
+  do-while()
+  arr.push(`${I love the Beatles[i]}!`)
+}
 
 // add solution here
 //theBeatlesPlay(["Bono", "Cher"], ["Guitar", "Piano"])
