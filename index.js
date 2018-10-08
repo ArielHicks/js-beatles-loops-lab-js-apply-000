@@ -22,7 +22,6 @@ function iLoveTheBeatles(number) {
   do {
   i++
   arr.push(`${I love the Beatles[i]}!`)
-  
   while(i < number.length) {
 }
 
