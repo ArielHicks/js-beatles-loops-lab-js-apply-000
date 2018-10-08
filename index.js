@@ -19,9 +19,9 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(number) {
   const arr = [];
-  do {arr.push(`${I love the Beatles[i]}!`)
-  }
-  while {
+  do {arr.push(`${I love the Beatles[i]}!`) 
+  i++ 
+  while(i < number.length) {
 }
 
 // add solution here
